@@ -1,7 +1,7 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/Inscription
+    url: jdbc:postgresql://localhost:5432/inscriptionDemo
     username: postgres
-    password: Mmm1i2k3e4
+    password: dkd0066460
     generate-unique-name: false
     name: InscriptionCloud

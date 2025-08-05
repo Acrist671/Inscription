@@ -5,6 +5,6 @@ public class Field {
     PlaceForCard[][] battleGroud;
 
     Field(){
-        battleGroud = new PlaceForCard[5][4];
+        battleGroud = new PlaceForCard[4][5];
     }
 }
